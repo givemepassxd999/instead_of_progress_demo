@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProgressDemo</string>
+    <string name="show_loading_dilaog">Show loading dilaog</string>
+    <string name="start_progress_loading">start progress loading</string>
+</resources>
